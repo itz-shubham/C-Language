@@ -1,3 +1,9 @@
-Name: hfas
-Salary: 45.00
+Name: Shubham
+Salary: 1.00
+
+Name: Harry
+Salary: 100.00
+
+Name: Maria
+Salary: 50.00
 

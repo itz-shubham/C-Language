@@ -22,10 +22,20 @@ int main()
             fprintf(fptr, "Name: %s\nSalary: %.2f\n\n", name, salary);
 
             printf("\n");
-            printf("Enter '1' to continue and '0' to exit: ");
+            printf("Enter '1' to continue and '0' to submit: ");
             scanf("%d", &i);
         }
     }
+    else if (key == 'n')
+    {
+        printf("Okay, as you wish!");
+    }
+    
+    else
+    {
+        printf("Please type only 'y' or 'n'");
+    }
+    
 
     return 0;
 }
